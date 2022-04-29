@@ -2,7 +2,7 @@
 
 A Python app built using Streamlit and Lux to upload and analyse large datasets through suggested and custom visualizations.
 
-### To run:
+### To run
 streamlit run app.py
 
 ### Navigation
